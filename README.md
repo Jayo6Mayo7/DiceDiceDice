@@ -1,1 +1,1 @@
-﻿# DiceDice Dice
+﻿# DiceDiceDice
